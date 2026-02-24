@@ -133,10 +133,23 @@ CI/CD automation
 Image-based production deployment
 
 Secure secret management
--------------------------------
+
+-------------------------------------------
+Screenshots
+-------------------------------------------
+
 <img width="1053" height="259" alt="Screenshot 2026-02-24 at 4 41 38 PM" src="https://github.com/user-attachments/assets/9456d0ff-fa43-4663-bd85-c1531c39c1c6" />
 
+-------------------------------------------
 
 
+<img width="1145" height="509" alt="Screenshot 2026-02-24 at 4 46 26 PM" src="https://github.com/user-attachments/assets/8e3cacee-6c94-4fa7-b21b-92e1e8aab507" />
+
+-------------------------------------------
 
 
+<img width="1145" height="236" alt="Screenshot 2026-02-24 at 4 49 11 PM" src="https://github.com/user-attachments/assets/ae8476b2-dd6d-43d2-a2df-50ad44f9d8e4" />
+
+-------------------------------------------
+
+<img width="1075" height="340" alt="Screenshot 2026-02-24 at 4 50 18 PM" src="https://github.com/user-attachments/assets/1415c9f2-c1e4-4ac8-ae53-c0a894bb5ca6" />
